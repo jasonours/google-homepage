@@ -1,1 +1,1 @@
-Google hompepage cloning project from The Odin Project.
+Google homepage cloning project from The Odin Project.
